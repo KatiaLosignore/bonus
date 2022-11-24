@@ -21,5 +21,10 @@ body {
     border: 1 px solid orange;
 }
 
-
+h1{
+    font-size: 30px;
+    color: white;
+    margin-left: 8px;
+    margin-top: 10px;
+}
 
